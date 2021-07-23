@@ -16,3 +16,5 @@ def init_func(text):
         new_word_list.append(word)
         new_string = ' '.join(new_word_list)
     return new_string
+    
+
