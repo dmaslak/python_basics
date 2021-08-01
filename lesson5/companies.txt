@@ -1,0 +1,3 @@
+Apple inc 1000 500
+Yandex llc 700 150
+Theranos inc 100 650
