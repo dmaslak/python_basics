@@ -12,8 +12,4 @@ class ComplexNumber:
         complex_self = complex(self.real, self.imaginary)
         complex_other = complex(other.real, other.imaginary)
         return complex_self * complex_other
-
-a = complex(1, 2)
-b = complex(2, 3)
-
-print(a*b)
+        
